@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  test.app
 //
-//  Created by おがわひさと on 2022/02/17.
+//  Created by hisa on 2022/02/17.
 //
 
 import UIKit
